@@ -1,2 +1,2 @@
 No code No pain
-test amend
+test commit -i
